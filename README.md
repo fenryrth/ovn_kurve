@@ -108,7 +108,6 @@ Hvad skal filen hedde (uden extension)? min_ovnstyring
 ## Bidrag
 
 - Du er velkommen til at lave **pull requests** eller **issues** for at forbedre scriptet.
-- Skriptet er tænkt som et udgangspunkt – tilpas det gerne til dine egne behov.
 
 **God fornøjelse!**
 
