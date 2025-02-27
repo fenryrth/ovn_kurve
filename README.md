@@ -112,5 +112,3 @@ Hvad skal filen hedde (uden extension)? min_ovnstyring
 
 **God fornøjelse!**
 
-*Søster-let-på-tå*
-
