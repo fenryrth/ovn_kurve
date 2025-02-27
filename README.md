@@ -1,4 +1,4 @@
-# Ovnindstillings-script (README)
+# Ovnindstillings-script
 
 Velkommen til dette lille Python-script, som hjælper med at oprette en ovn-kurve med følgende muligheder:
 
