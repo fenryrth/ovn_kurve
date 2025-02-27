@@ -1,5 +1,5 @@
 def main():
-    print("Velkommen til ovnindstillings-scriptet, Søster-let-på-tå!")
+    print("Velkommen til ovn_script!")
     
     # 1) Forskudt start
     delayed_start_hours = float(input(
@@ -7,7 +7,7 @@ def main():
     ))
     
     # 2) Starttemperatur
-    current_temp = float(input("Indtast starttemperatur (°C): "))
+    current_temp = float(input("Indtast starttemperatur. Den temperatur som omgiver ovnen inden start. Er du i tvivl, så angiv 0 (°C): "))
     
     # 3) Antal steps
     num_steps = int(input("Hvor mange steps vil du indtaste? "))
@@ -35,7 +35,7 @@ def main():
         print(f"\n--- Step {i+1} ---")
 
         # Indtast data
-        ramp_time_hours = float(input("Hvor lang tid (i timer) til at nå næste temperatur? "))
+        ramp_time_hours = float(input("Hvor lang tid (i timer) til at nå temperatur? "))
         target_temp = float(input("Hvad er sluttemperaturen (°C)? "))
         
         # Brugeren taster holdetid i timer
