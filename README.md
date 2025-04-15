@@ -1,6 +1,6 @@
 # Ovnindstillings-script
 
-Velkommen til dette lille Python-script, som hjælper med at oprette en ovn-kurve med følgende muligheder:
+Velkommen til dette lille Python-script, som hjælper med at oprette en ovn-kurve til den lille ovn in HeySpace:
 
 - **Forskudt start** – Angiv, hvor mange timer ovnen skal vente, før den begynder at varme op.
 - **Flere temperatur-steps** – For hver etape indtaster du:
